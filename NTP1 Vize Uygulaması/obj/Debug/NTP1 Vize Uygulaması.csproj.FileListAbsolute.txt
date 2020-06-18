@@ -1,0 +1,6 @@
+C:\Users\ArifCAN\source\repos\NTP1 Vize Uygulaması\NTP1 Vize Uygulaması\bin\Debug\NTP1 Vize Uygulaması.exe.config
+C:\Users\ArifCAN\source\repos\NTP1 Vize Uygulaması\NTP1 Vize Uygulaması\bin\Debug\NTP1 Vize Uygulaması.exe
+C:\Users\ArifCAN\source\repos\NTP1 Vize Uygulaması\NTP1 Vize Uygulaması\bin\Debug\NTP1 Vize Uygulaması.pdb
+C:\Users\ArifCAN\source\repos\NTP1 Vize Uygulaması\NTP1 Vize Uygulaması\obj\Debug\NTP1 Vize Uygulaması.csprojAssemblyReference.cache
+C:\Users\ArifCAN\source\repos\NTP1 Vize Uygulaması\NTP1 Vize Uygulaması\obj\Debug\NTP1 Vize Uygulaması.exe
+C:\Users\ArifCAN\source\repos\NTP1 Vize Uygulaması\NTP1 Vize Uygulaması\obj\Debug\NTP1 Vize Uygulaması.pdb
